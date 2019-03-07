@@ -1,0 +1,54 @@
+body#index{
+  background-image: url("img/nba.jpg");
+  background-size: cover;
+}
+
+body#correcto{
+  background-image: url("img/nba.jpg");	
+  background-size: cover;
+  color: #FF0000;
+  
+}
+
+body#modifica{
+  background-image: url("img/nba2.jpg");
+  background-size: cover;
+}
+
+div#lebron{
+  position: absolute;
+  margin-left: 400px;
+  background-repeat: no-repeat;
+  
+}
+
+div#stephen{
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  margin-left: 400px;
+  background-image: url("img/nba22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div#nba2{
+  position: absolute;
+  width: 700px;
+  height: 300px;
+  margin-left: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/nba2.jpg");
+}
+
+div#nba22{
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  margin-left: 400px;
+  background-image: url("img/nba22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
