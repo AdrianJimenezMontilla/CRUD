@@ -1,6 +1,7 @@
 # CRUD
 
 Gestión de jugadores y sus equipos de la NBA.
+Esta aplicación permite dar de alta, modificar y borrar jugadores de la liga NBA en cualquier equipo existente, permite agregar tus estrellas favoritas a tu equipo favorito y hacer el equipo de tus sueños.
 
 Este el index de la aplicación, donde estaremos añadiendo el jugador llamado "Git Hub".
 ![index](https://user-images.githubusercontent.com/33193519/53928275-c917fb00-4089-11e9-93a1-f9c96f1cbced.JPG)
