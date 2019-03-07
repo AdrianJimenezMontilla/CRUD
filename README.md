@@ -12,7 +12,7 @@ Y este el index de la aplicación, donde estaremos añadiendo el jugador llamado
 Y en la siguiente imagen, lo hemos dado de alta con éxito.
 ![nuevojugador](https://user-images.githubusercontent.com/33193519/53928339-04b2c500-408a-11e9-8876-2dce2904ca56.JPG)
 
-Ha continuacion daremos de alta otro jugador con el mismo CodJug, y veremos que no es posible.
+Ha continuacion daremos de alta un jugador con un CodJug existente y veremos que no es posible.
 ![jugadorexistente](https://user-images.githubusercontent.com/33193519/53928384-2d3abf00-408a-11e9-8546-b913dd279048.JPG)
 
 Ahora modificaremos el jugador "Git Hub", con el siguiente menú.
