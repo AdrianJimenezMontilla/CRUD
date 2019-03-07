@@ -18,7 +18,7 @@ A continuacion daremos de alta un jugador con un CodJug existente y veremos que 
 Ahora modificaremos el jugador "Git Hub", con el siguiente menú.
 ![modificajugador](https://user-images.githubusercontent.com/33193519/53928414-52c7c880-408a-11e9-986d-135eb46ab4bb.JPG)
 
-Y modificado con éxito!
+Y sera modificado correctamente
 ![jugadormodificado](https://user-images.githubusercontent.com/33193519/53928453-78ed6880-408a-11e9-9f9d-30bf41c83a14.JPG)
 
 Ahora borraremos el jugador "Git Hub"
