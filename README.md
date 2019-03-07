@@ -2,11 +2,7 @@
 
 Gestión de jugadores y sus equipos de la NBA.
 
-
-Estas son las 2 tablas que utilizan la aplicación.
-![captura1](https://user-images.githubusercontent.com/33193519/53928216-93731200-4089-11e9-9553-43667341261a.PNG)
-
-Y este el index de la aplicación, donde estaremos añadiendo el jugador llamado "Git Hub".
+Este el index de la aplicación, donde estaremos añadiendo el jugador llamado "Git Hub".
 ![index](https://user-images.githubusercontent.com/33193519/53928275-c917fb00-4089-11e9-93a1-f9c96f1cbced.JPG)
 
 Y en la siguiente imagen, lo hemos dado de alta con éxito.
